@@ -1,4 +1,4 @@
-### Hi there 👋
+![welcome_pic_3](https://user-images.githubusercontent.com/108218084/215271725-3c596634-4bf0-4ca8-bde5-04f074892616.jpg)
 
 ### https://txellext.github.io/
 
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
