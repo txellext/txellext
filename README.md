@@ -1,5 +1,5 @@
 [![welcome_pic_3](https://user-images.githubusercontent.com/108218084/215271725-3c596634-4bf0-4ca8-bde5-04f074892616.jpg)](https://txellext.github.io/)
-[![hello2_pic](https://github.com/[txellext]/[txellext.github.io]/blob/[main]/src/img/hello2.jpg?raw=true)](https://txellext.github.io/)
+[![hello2_pic](https://github.com/txellext/txellext.github.io/blob/main/src/img/hello2.jpg?raw=true)](https://txellext.github.io/)
 
 <!--
 **txellext/txellext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
